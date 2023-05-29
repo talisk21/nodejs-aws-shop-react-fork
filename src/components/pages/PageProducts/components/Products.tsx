@@ -24,7 +24,7 @@ export default function Products() {
             sx={{ height: "100%", display: "flex", flexDirection: "column" }}
           >
             <CardMedia
-              sx={{ pt: "56.25%" }}
+              sx={{ pt: "100%" }}
               image={`https://source.unsplash.com/random?sig=${index}`}
               title="Image title"
             />
