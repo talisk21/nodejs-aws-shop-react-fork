@@ -1,3 +1,8 @@
+# Links to CloudFront URL and S3-website:
+
+https://dw5v1bm0783fd.cloudfront.net/
+https://shop-app-aws-task02.s3.amazonaws.com/index.html
+
 # React-shop-cloudfront
 
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
